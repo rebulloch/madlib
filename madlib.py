@@ -32,10 +32,10 @@
 # else:
 #     print('Aww... you are no fun!')
 
-input_type_list = [ 'holiday', 'verb', 'noun', 
+input_type_list = [ 'holiday', 'verb', 'proper noun', 
                     'place', 'noun', 'verb', 
                     'verb', 'verb', 'verb', 
-                    'noun', 'noun', 'noun', 
+                    'noun', 'noun', 'plural noun', 
                     'silly word', 'adjective', 'adjective', 
                     'piece of clothing', 'body part']
 blanks = []
@@ -44,9 +44,9 @@ for input_type in input_type_list:
     blanks.append(input(f'Enter a {input_type}: '))
 
 print(f'''
-Today is {blanks[0]}! I'm going to {blanks[1]} to celebrate! Will {blanks[2]} go to {blanks[3]} to celebrate? Will you throw a {blanks[4]}
-to celebrate? Will you {blanks[5]} and {blanks[6]}? Is anybody you know going to come over and {blanks[7]} me? I like to {blanks[8]}
-{blanks[9]} when this holiday comes around! I will decorate my {blanks[10]} with {blanks[11]} and {blanks[12]}! That wll make it very 
+Today is {blanks[0]}! I'm going to {blanks[1]} to celebrate! Will {blanks[2]} go to a {blanks[3]} to celebrate? Will you throw a {blanks[4]}
+to celebrate? Will you {blanks[5]} and {blanks[6]}? Is anybody you know going to come over and {blanks[7]} me? I like to {blanks[8]}for
+{blanks[9]} when this holiday comes around! I will decorate my {blanks[10]} with {blanks[11]} and {blanks[12]}s! That wll make it very 
 {blanks[13]} and perfect for this time of year! Happy holidays! 
 Oh yeah! Do you like my new {blanks[14]} {blanks[15]}? It fits perfectly over my {blanks[16]}! See ya later!
 ''')
