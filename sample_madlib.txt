@@ -1,5 +1,5 @@
 Today is {holiday}! I'm going to {verb} to celebrate! Will {proper_noun} go to a {place} to celebrate? Will you throw a {noun}
 to celebrate? Will you {verb} and {verb}? Is anybody you know going to come over and {verb} me? I like to {verb} for
-{noun} when this holiday comes around! I will decorate my {noun} with {plural_noun} and {silly_word}! That will make it very 
+{plural_noun} when this holiday comes around! I will decorate my {noun} with {plural_noun} and {silly_word}! That will make it very 
 {adjective} and perfect for this time of year! Happy holidays! 
 Oh yeah! Do you like my new {adjective} {piece_of_clothing}? It fits perfectly over my {body_part}! See ya later!
