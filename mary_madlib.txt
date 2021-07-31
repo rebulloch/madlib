@@ -1,0 +1,4 @@
+{noise} What was that? Sitting up in my {type_of_furnature}, I {verb} the sleep from my {body_part} and look around. The clock reads {time_in_hours_and_minutes} what could possibly have woken me up at this
+hour? I grab my {object} sitting next to me in case I need protection and go investigate. {noise} There it was again. The noise was coming from the {place_in_a_house}. I {past_tense_verb} {adverb} towards
+ the noise. Now all that is left between me and what ever is making that sound is the {noun}. As {adverb_ending_in_ly} as a {animal}, I poke my {body_part} around it and look. It is only a {adjective}
+  {adjective} {noun}. What a relief!
